@@ -1,4 +1,4 @@
 # design
-for graphic designing
+this is graphic designing project
 <br>
 author-devanshi panchal
